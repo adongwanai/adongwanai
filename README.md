@@ -1,6 +1,15 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/adongwanai">Dong Zhang (张振东)</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/adongwanai">Adong / 阿东玩 AI</a></h1>
 
 <p align="center"><strong>Agent Algorithm · Agent Architecture · Open-source Systems</strong></p>
+
+<p align="center">
+  <a href="https://adongwanai.github.io/" title="Personal homepage"><img src="assets/brands/homepage.svg" alt="Personal homepage" width="36" height="36" /></a>&nbsp;
+  <a href="https://github.com/adongwanai" title="GitHub"><img src="assets/brands/github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;
+  <a href="https://mp.weixin.qq.com/s/x_aVihPiiNGRezICZ7k7eA" title="WeChat Official Account / 微信公众号"><img src="assets/brands/wechat.svg" alt="WeChat Official Account" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAFqjHp1IIOVdpXdbIzlROaoS1wLpWCfz442x6s2MLaJU" title="Douyin / 抖音"><img src="assets/brands/douyin.svg" alt="Douyin" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/5f310fd50000000001009df5" title="Xiaohongshu / 小红书"><img src="assets/brands/xiaohongshu.svg" alt="Xiaohongshu" width="36" height="36" /></a>&nbsp;
+  <a href="https://ccn7vpu5l5y8.feishu.cn/wiki/Uu5Pwkcjwio10ZkC82tct3MSn8i" title="Adong's LLM Lab / 阿东的大模型实验室"><img src="assets/brands/community.svg" alt="Adong's LLM Lab community" width="36" height="36" /></a>
+</p>
 
 <p align="center">
   <a href="https://ia.cas.cn/"><img src="assets/brands/casia-banner.png" alt="Institute of Automation, Chinese Academy of Sciences" height="46" /></a>&nbsp;&nbsp;
@@ -74,12 +83,6 @@ An implementation-first desktop Agent Harness covering Agent Loop, Tool, Memory,
 ## Community &amp; Impact
 
 **1M+ technical audience across multiple platforms.** I share practical work on Agents, LLM systems, training, inference and evaluation through “Adong Plays with AI”.
-
-<p>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAFqjHp1IIOVdpXdbIzlROaoS1wLpWCfz442x6s2MLaJU"><img src="assets/brands/douyin.svg" alt="Douyin" height="24" align="absmiddle" /> <strong>Douyin</strong></a>&nbsp;&nbsp;
-  <a href="https://mp.weixin.qq.com/s/x_aVihPiiNGRezICZ7k7eA"><img src="assets/brands/wechat.svg" alt="WeChat Official Account" height="24" align="absmiddle" /> <strong>WeChat Official Account</strong></a>&nbsp;&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5f310fd50000000001009df5"><img src="assets/brands/xiaohongshu.svg" alt="Xiaohongshu" height="24" align="absmiddle" /> <strong>Xiaohongshu</strong></a>
-</p>
 
 ### Adong's LLM Lab
 
