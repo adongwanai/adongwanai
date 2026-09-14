@@ -6,7 +6,7 @@
   <a href="https://ia.cas.cn/"><img src="assets/brands/casia-banner.png" alt="Institute of Automation, Chinese Academy of Sciences" height="46" /></a>&nbsp;&nbsp;
   <a href="https://ir.baidu.com/"><img src="assets/brands/baidu.svg" alt="BaiDu" height="42" /></a>&nbsp;&nbsp;
   <a href="https://www.lenovo.com/"><img src="assets/brands/lenovo.svg" alt="Lenovo" height="42" /></a>&nbsp;&nbsp;
-  <strong style="font-size:2rem; vertical-align:middle;">?</strong>
+  <strong><big><big>?</big></big></strong>
 </p>
 
 <p align="center"><strong>BaiDu Senior R&amp;D → Lenovo Agent Architect → ?</strong></p>
@@ -18,14 +18,20 @@
 </p>
 
 <p>
-I am an AI master's graduate from the <strong>University of Chinese Academy of Sciences · Institute of Automation</strong>.
-I work across <strong>Agentic RL, Harness / Runtime, Memory &amp; Context Engineering, Skills self-evolution, Model Routing and Agent Evaluation</strong>.
-At <strong>BaiDu</strong> I worked as a Senior R&amp;D Engineer; at <strong>Lenovo</strong> I serve as an Agent Architect and AI Native Innovation Lead.
-My focus is turning long-horizon agents from demos into systems that can <strong>plan, act, verify, recover and improve</strong>.
+AI master's graduate from the <strong>University of Chinese Academy of Sciences · Institute of Automation</strong>; former <strong>BaiDu Senior R&amp;D Engineer</strong>, now <strong>Lenovo Agent Architect / AI Native Innovation Lead</strong>.
 </p>
 
 <p>
-I have published first-author work targeting <strong>EMNLP / AAAI</strong>, led an <strong>8-person</strong> engineering team, and built open-source projects used by the Agent community.
+<strong>9.5k+ GitHub stars</strong> on <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>; first-author research targeting <strong>EMNLP / AAAI</strong>; led an <strong>8-person</strong> Agent engineering team; and drove Agent capabilities into Lenovo's desktop product line.
+My technical work spans Agentic RL, Harness / Runtime, Memory &amp; Context, Skills self-evolution, Model Routing and Agent Evaluation.
+</p>
+
+<p>
+Built a <strong>1M+ technical audience</strong> across Douyin, WeChat and Xiaohongshu, delivered Agent talks to <strong>300+ Lenovo colleagues</strong>, and received the <strong>Lenovo China AI Pioneer Award</strong> and an Outstanding performance rating.
+</p>
+
+<p>
+Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all three BAT companies.
 </p>
 
 <p align="center"><a href="#selected-open-source">Selected work</a> · <a href="#research--engineering">Research &amp; engineering</a> · <a href="#community--impact">Community &amp; impact</a> · <a href="https://adongwanai.github.io/">Homepage</a></p>
