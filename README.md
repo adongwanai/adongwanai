@@ -5,8 +5,11 @@
 <p align="center">
   <a href="https://www.ucas.ac.cn/"><img src="assets/brands/cas-ia.svg" alt="Chinese Academy of Sciences, Institute of Automation" height="58" /></a>&nbsp;&nbsp;
   <a href="https://ir.baidu.com/"><img src="assets/brands/baidu.svg" alt="BaiDu" height="42" /></a>&nbsp;&nbsp;
-  <a href="https://www.lenovo.com/"><img src="assets/brands/lenovo.svg" alt="Lenovo" height="42" /></a>
+  <a href="https://www.lenovo.com/"><img src="assets/brands/lenovo.svg" alt="Lenovo" height="42" /></a>&nbsp;&nbsp;
+  <strong style="font-size:2rem; vertical-align:middle;">?</strong>
 </p>
+
+<p align="center"><strong>BaiDu Senior R&amp;D → Lenovo Agent Architect → ?</strong></p>
 
 <p align="center">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/adongwanai?style=flat-square&label=profile%20stars" />
