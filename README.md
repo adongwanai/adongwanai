@@ -3,7 +3,7 @@
 <p align="center"><strong>Agent Algorithm · Agent Architecture · Open-source Systems</strong></p>
 
 <p align="center">
-  <a href="https://www.ucas.ac.cn/"><img src="assets/brands/cas-ia.svg" alt="Chinese Academy of Sciences, Institute of Automation" height="58" /></a>&nbsp;&nbsp;
+  <a href="https://ia.cas.cn/"><img src="assets/brands/casia-banner.png" alt="Institute of Automation, Chinese Academy of Sciences" height="46" /></a>&nbsp;&nbsp;
   <a href="https://ir.baidu.com/"><img src="assets/brands/baidu.svg" alt="BaiDu" height="42" /></a>&nbsp;&nbsp;
   <a href="https://www.lenovo.com/"><img src="assets/brands/lenovo.svg" alt="Lenovo" height="42" /></a>&nbsp;&nbsp;
   <strong style="font-size:2rem; vertical-align:middle;">?</strong>
