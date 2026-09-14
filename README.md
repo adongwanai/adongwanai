@@ -1,15 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/adongwanai">Adong / 阿东玩 AI</a></h1>
 
-<p align="center"><strong>Agent Algorithm · Agent Architecture · Open-source Systems</strong></p>
-
-<p align="center">
-  <a href="https://adongwanai.github.io/" title="Personal homepage"><img src="assets/brands/homepage.svg" alt="Personal homepage" width="36" height="36" /></a>&nbsp;
-  <a href="https://github.com/adongwanai" title="GitHub"><img src="assets/brands/github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;
-  <a href="https://mp.weixin.qq.com/s/x_aVihPiiNGRezICZ7k7eA" title="WeChat Official Account / 微信公众号"><img src="assets/brands/wechat.svg" alt="WeChat Official Account" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAFqjHp1IIOVdpXdbIzlROaoS1wLpWCfz442x6s2MLaJU" title="Douyin / 抖音"><img src="assets/brands/douyin.svg" alt="Douyin" width="36" height="36" /></a>&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5f310fd50000000001009df5" title="Xiaohongshu / 小红书"><img src="assets/brands/xiaohongshu.svg" alt="Xiaohongshu" width="36" height="36" /></a>&nbsp;
-  <a href="https://ccn7vpu5l5y8.feishu.cn/wiki/Uu5Pwkcjwio10ZkC82tct3MSn8i" title="Adong's LLM Lab / 阿东的大模型实验室"><img src="assets/brands/community.svg" alt="Adong's LLM Lab community" width="36" height="36" /></a>
-</p>
+<p align="center"><strong>Building products that are fun and useful.</strong></p>
 
 <p align="center">
   <a href="https://ia.cas.cn/"><img src="assets/brands/casia-banner.png" alt="Institute of Automation, Chinese Academy of Sciences" height="46" /></a>&nbsp;&nbsp;
@@ -21,8 +12,8 @@
 <p align="center"><strong>BaiDu Senior R&amp;D → Lenovo Agent Architect → ?</strong></p>
 
 <p align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/adongwanai?style=flat-square&label=profile%20stars" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/adongwanai?style=flat-square" />
+  <a href="https://github.com/adongwanai?tab=repositories"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/adongwanai?style=social&amp;label=Stars" /></a>
+  <a href="https://github.com/adongwanai?tab=followers"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/adongwanai?style=social&amp;label=Followers" /></a>
   <img alt="First-author papers" src="https://img.shields.io/badge/papers-EMNLP%20%2F%20AAAI%20first--author-0b4ea2?style=flat-square" />
 </p>
 
@@ -42,6 +33,36 @@ Built a <strong>1M+ technical audience</strong> across Douyin, WeChat and Xiaoho
 <p>
 Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all three BAT companies.
 </p>
+
+<p align="center">
+  <a href="https://adongwanai.github.io/" title="Personal homepage"><img src="assets/brands/homepage.svg" alt="Personal homepage" width="36" height="36" /></a>&nbsp;
+  <a href="https://github.com/adongwanai" title="GitHub"><img src="assets/brands/github.svg" alt="GitHub" width="36" height="36" /></a>&nbsp;
+  <a href="https://mp.weixin.qq.com/s/x_aVihPiiNGRezICZ7k7eA" title="WeChat Official Account / 微信公众号"><img src="assets/brands/wechat.svg" alt="WeChat Official Account" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAFqjHp1IIOVdpXdbIzlROaoS1wLpWCfz442x6s2MLaJU" title="Douyin / 抖音"><img src="assets/brands/douyin.svg" alt="Douyin" width="36" height="36" /></a>&nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/5f310fd50000000001009df5" title="Xiaohongshu / 小红书"><img src="assets/brands/xiaohongshu.svg" alt="Xiaohongshu" width="36" height="36" /></a>&nbsp;
+  <a href="https://ccn7vpu5l5y8.feishu.cn/wiki/Uu5Pwkcjwio10ZkC82tct3MSn8i" title="Adong's LLM Lab / 阿东的大模型实验室"><img src="assets/brands/community.svg" alt="Adong's LLM Lab community" width="36" height="36" /></a>
+</p>
+
+<details>
+<summary><strong>中文介绍 / Chinese bio</strong></summary>
+
+<p>
+<strong>中国科学院大学（中科院自动化所）人工智能硕士</strong>，曾任 <strong>BaiDu 高级研发工程师</strong>，现任 <strong>Lenovo Agent 架构师 / AI Native 创新组负责人</strong>。
+</p>
+
+<p>
+发起并主导 <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>，获得 <strong>9.5k+ GitHub Stars</strong>；开展 <strong>EMNLP / AAAI 一作研究</strong>，带领 <strong>8 人 Agent 研发团队</strong>，推动 Agent 能力落地联想桌面产品线。研究与实践覆盖 Agentic RL、Harness / Runtime、Memory 与 Context Engineering、Skills 自进化、Model Routing 和 Agent Eval。
+</p>
+
+<p>
+持续在抖音、微信公众号和小红书分享技术实践，技术受众达 <strong>100 万+</strong>；面向 <strong>300+ 位联想同事</strong>开展 Agent 技术分享，获得 <strong>联想中国 AI 先锋奖</strong>与 <strong>Outstanding 绩效</strong>。
+</p>
+
+<p>
+目前已获得 <strong>BAT 三家的 Agent 算法技术专家机会</strong>。
+</p>
+
+</details>
 
 <p align="center"><a href="#selected-open-source">Selected work</a> · <a href="#research--engineering">Research &amp; engineering</a> · <a href="#community--impact">Community &amp; impact</a> · <a href="https://adongwanai.github.io/">Homepage</a></p>
 
