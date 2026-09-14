@@ -4,6 +4,9 @@
 
 ### Agent Architect · AI Native Innovation Lead
 
+<strong>中国科学院大学（中科院自动化所）· 人工智能硕士 ｜ 百度高级 RD ｜ 联想 Agent 架构师</strong><br />
+<sub>科研经历：EMNLP / AAAI 顶会一作论文在投 · Agent 算法 · Harness · Runtime</sub>
+
 <a href="https://github.com/adongwanai"><img src="https://img.shields.io/badge/GitHub-adongwanai-111827?style=for-the-badge&logo=github" /></a>
 <a href="https://github.com/adongwanai/AgentGuide"><img src="https://img.shields.io/github/stars/adongwanai/AgentGuide?style=for-the-badge&logo=github&label=AgentGuide%20stars" /></a>
 <a href="https://github.com/adongwanai?tab=followers"><img src="https://img.shields.io/github/followers/adongwanai?style=for-the-badge&logo=github&label=followers" /></a>
@@ -17,6 +20,47 @@
 </div>
 
 <br />
+
+## Credentials & Impact
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education & Roles
+
+中国科学院大学（中科院自动化所）<br />
+人工智能硕士 · 百度高级 RD · 联想 Agent 架构师<br />
+曾带领 **8 人**小团队推进 Agent 工程落地
+
+### 🏆 Lenovo Recognition
+
+`2025 Outstanding 绩效` · `联想中国 AI 先锋奖` · `年度专业贡献项目奖`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Research & IP
+
+EMNLP / AAAI 顶会一作论文在投等<br />
+AI 专利 **4 项** · 软件著作权 **5 项**<br />
+顶会论文录用 / 在投 **5 篇**
+
+### 🌏 Community & Influence
+
+双平台技术受众 **100 万+** · 面向联想集团 **300+ 人**开展 **4 次** Agent 技术分享 · 多项 AI 黑客松分享嘉宾
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`中科院 MCP 云服务赛三等奖`　`算法设计与编程挑战赛银奖`　`开放原子年度贡献之星`
+
+`2025 开放原子开发者大会杰出贡献奖暨分享嘉宾`
+
+</div>
 
 ## What I Build
 
@@ -80,6 +124,25 @@ OpenAI-compatible hybrid inference gateway，围绕能力、成本、时延、�
 </td>
 </tr>
 </table>
+
+## Activities & Talks
+
+持续把 Agent 算法与工程实践带到真实社区：从联想内部技术分享，到开放原子开发者大会、AI 黑客松与开源社区活动。
+
+<table>
+<tr>
+<td width="25%"><img src="assets/impact/lenovo-ai-pioneer.jpg" alt="联想中国 AI 先锋奖" width="100%" /></td>
+<td width="25%"><img src="assets/impact/openkylin-award.jpg" alt="开放原子开源社区年度贡献之星" width="100%" /></td>
+<td width="25%"><img src="assets/impact/ai-pioneer-talk.jpg" alt="AI 技术主题分享现场" width="100%" /></td>
+<td width="25%"><img src="assets/impact/douyin-talk.jpg" alt="AI 创变活动分享现场" width="100%" /></td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://ccn7vpu5l5y8.feishu.cn/wiki/XoWQwzCKciMXPJkDjHYckNLAnJc"><img src="https://img.shields.io/badge/活动记录-Feishu%20Wiki-2563eb?style=for-the-badge&logo=feishu&logoColor=white" /></a>
+
+</div>
 
 ## Research & Engineering Themes
 
