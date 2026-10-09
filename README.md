@@ -22,7 +22,7 @@ AI master's graduate from the <strong>University of Chinese Academy of Sciences 
 </p>
 
 <p>
-<strong>9.5k+ GitHub stars</strong> on <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>; first-author research targeting <strong>EMNLP / AAAI</strong>; led an <strong>8-person</strong> Agent engineering team; and drove Agent capabilities into Lenovo's desktop product line.
+<strong>10,571 GitHub stars</strong> on <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>; first-author research targeting <strong>EMNLP / AAAI</strong>; led an <strong>8-person</strong> Agent engineering team; and drove Agent capabilities into Lenovo's desktop product line.
 My technical work spans Agentic RL, Harness / Runtime, Memory &amp; Context, Skills self-evolution, Model Routing and Agent Evaluation.
 </p>
 
@@ -51,7 +51,7 @@ Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all
 </p>
 
 <p>
-发起并主导 <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>，获得 <strong>9.5k+ GitHub Stars</strong>；开展 <strong>EMNLP / AAAI 一作研究</strong>，带领 <strong>8 人 Agent 研发团队</strong>，推动 Agent 能力落地联想桌面产品线。研究与实践覆盖 Agentic RL、Harness / Runtime、Memory 与 Context Engineering、Skills 自进化、Model Routing 和 Agent Eval。
+发起并主导 <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>，获得 <strong>10,571 GitHub Stars</strong>；开展 <strong>EMNLP / AAAI 一作研究</strong>，带领 <strong>8 人 Agent 研发团队</strong>，推动 Agent 能力落地联想桌面产品线。研究与实践覆盖 Agentic RL、Harness / Runtime、Memory 与 Context Engineering、Skills 自进化、Model Routing 和 Agent Eval。
 </p>
 
 <p>
@@ -81,7 +81,7 @@ Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all
 
 ### [AgentGuide](https://github.com/adongwanai/AgentGuide)
 
-**9.5k+ GitHub stars**
+**10,571 GitHub stars**
 
 An end-to-end guide from Agent algorithms to runnable systems: Runtime, Agentic RL, RAG, data synthesis, tool use and evaluation.
 
@@ -90,7 +90,7 @@ An end-to-end guide from Agent algorithms to runnable systems: Runtime, Agentic 
 
 ### [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)
 
-**327 GitHub stars**
+**412 GitHub stars**
 
 An implementation-first desktop Agent Harness covering Agent Loop, Tool, Memory, Context, Sidecar and sandbox auditing.
 
