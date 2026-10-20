@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/adongwanai">Adong / 阿东玩 AI</a></h1>
 
-<p align="center"><strong>Building products that are fun and useful.</strong></p>
+<p align="center"><strong>Router Harness · Harness RSI (Recursive Self-Improvement)</strong><br />Building products that are fun and useful.</p>
 
 <p align="center">
   <a href="https://ia.cas.cn/"><img src="assets/brands/casia-banner.png" alt="Institute of Automation, Chinese Academy of Sciences" height="46" /></a>&nbsp;&nbsp;
@@ -22,8 +22,11 @@ AI master's graduate from the <strong>University of Chinese Academy of Sciences 
 </p>
 
 <p>
-<strong>10,571 GitHub stars</strong> on <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>; first-author research targeting <strong>EMNLP / AAAI</strong>; led an <strong>8-person</strong> Agent engineering team; and drove Agent capabilities into Lenovo's desktop product line.
-My technical work spans Agentic RL, Harness / Runtime, Memory &amp; Context, Skills self-evolution, Model Routing and Agent Evaluation.
+My research focuses on <strong>Router Harness</strong> and <strong>Harness RSI (Recursive Self-Improvement)</strong>: how agents route computation across models and execution environments, and how their harness can improve through execution feedback and evaluation.
+</p>
+
+<p>
+Created <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a> <a href="https://github.com/adongwanai/AgentGuide/stargazers"><img alt="AgentGuide GitHub stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fadongwanai%2FAgentGuide&amp;query=%24.stargazers_count&amp;label=GitHub%20stars&amp;style=flat-square&amp;color=181717&amp;cacheSeconds=300" /></a>; first-author research targeting <strong>EMNLP / AAAI</strong>; led an <strong>8-person</strong> Agent engineering team; and drove Agent capabilities into Lenovo's desktop product line.
 </p>
 
 <p>
@@ -51,7 +54,11 @@ Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all
 </p>
 
 <p>
-发起并主导 <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a>，获得 <strong>10,571 GitHub Stars</strong>；开展 <strong>EMNLP / AAAI 一作研究</strong>，带领 <strong>8 人 Agent 研发团队</strong>，推动 Agent 能力落地联想桌面产品线。研究与实践覆盖 Agentic RL、Harness / Runtime、Memory 与 Context Engineering、Skills 自进化、Model Routing 和 Agent Eval。
+主要研究 <strong>Router Harness</strong> 与 <strong>Harness 的递归自我改进（RSI）</strong>：面向长程 Agent 任务，研究模型选择、端云协同与执行状态管理，在质量、成本和时延约束下进行逐步路由；利用执行轨迹和评测反馈，探索 Harness 的编排逻辑、工具、记忆与 Skills 如何持续改进，并通过独立任务和可复现实验验证改进是否有效。
+</p>
+
+<p>
+发起并主导 <a href="https://github.com/adongwanai/AgentGuide">AgentGuide</a> <a href="https://github.com/adongwanai/AgentGuide/stargazers"><img alt="AgentGuide GitHub stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fadongwanai%2FAgentGuide&amp;query=%24.stargazers_count&amp;label=GitHub%20stars&amp;style=flat-square&amp;color=181717&amp;cacheSeconds=300" /></a>；开展 <strong>EMNLP / AAAI 一作研究</strong>，带领 <strong>8 人 Agent 研发团队</strong>，推动 Agent 能力落地联想桌面产品线。
 </p>
 
 <p>
@@ -68,10 +75,10 @@ Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all
 
 ## Research &amp; Engineering
 
-- **Agent Harness / Runtime** — stateful loops, tool orchestration, interruption and resume, sandboxing, permissions and verifiers for reliable long-horizon execution.
-- **Memory / Context Engineering** — layered episodic and semantic memory, retrieval and compression, context budgets, trace-grounded skill reuse and isolation.
-- **Agentic RL** — on-policy training, rollout infrastructure, reward design, data curriculum and failure-driven optimization for tool-using agents.
-- **Routing &amp; Evaluation** — step-level model routing under quality / cost / latency constraints, scenario datasets, ablations and reproducible evaluation protocols.
+- **Router Harness** — adaptive model selection and edge / cloud routing within the agent execution loop. I study how routing decisions interact with task state, context, tools and recovery over long horizons, balancing task quality, inference cost, latency and privacy.
+- **Harness RSI · Recursive Self-Improvement** — using execution traces, failure analysis and evaluator feedback to improve the harness itself: orchestration, prompts, tools, memory, reusable skills and routing policies. I explore propose–test–select loops with fixed base models, versioned changes and rollback, measuring whether improvements transfer to unseen tasks.
+
+**Evaluation approach.** Inspired by [MLE-bench](https://github.com/openai/mle-bench)'s evaluation of agents on machine learning engineering tasks, I prioritize task outcomes under explicit time and compute budgets, held-out evaluation, repeated runs, component ablations and reproducible traces. The aim is to measure whether routing and harness changes lead to reliable gains in quality and efficiency.
 
 ## Selected Open Source
 
@@ -81,7 +88,7 @@ Currently holding <strong>Agent Algorithm Expert</strong> opportunities from all
 
 ### [AgentGuide](https://github.com/adongwanai/AgentGuide)
 
-**10,571 GitHub stars**
+[![AgentGuide GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fadongwanai%2FAgentGuide&query=%24.stargazers_count&label=GitHub%20stars&style=flat-square&color=181717&cacheSeconds=300)](https://github.com/adongwanai/AgentGuide/stargazers)
 
 An end-to-end guide from Agent algorithms to runnable systems: Runtime, Agentic RL, RAG, data synthesis, tool use and evaluation.
 
@@ -90,7 +97,7 @@ An end-to-end guide from Agent algorithms to runnable systems: Runtime, Agentic 
 
 ### [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)
 
-**412 GitHub stars**
+[![learn-workbuddy GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fadongwanai%2Flearn-workbuddy&query=%24.stargazers_count&label=GitHub%20stars&style=flat-square&color=181717&cacheSeconds=300)](https://github.com/adongwanai/learn-workbuddy/stargazers)
 
 An implementation-first desktop Agent Harness covering Agent Loop, Tool, Memory, Context, Sidecar and sandbox auditing.
 
